@@ -1,0 +1,12 @@
+sep=,
+DeviceTag:,tibiaLeft,,,,,,,,,,,,,,,,,
+FirmwareVersion:,1.6.0,,,,,,,,,,,,,,,,,
+AppVersion:,1.1,,,,,,,,,,,,,,,,,
+SyncStatus:,Synced,,,,,,,,,,,,,,,,,
+OutputRate:,60Hz,,,,,,,,,,,,,,,,,
+FilterProfile:,General,,,,,,,,,,,,,,,,,
+Measurement Mode:,Sensor fusion Mode - Complete (Euler),,,,,,,,,,,,,,,,,
+StartTime:,2021-03-10 17:04:33.821 +0800,,,,,,,,,,,,,,,,,
+© Xsens Technologies B. V. 2005-2021,,,,,,,,,,,,,,,,,,,
+
+PacketCounter,SampleTimeFine,Euler_X,Euler_Y,Euler_Z,FreeAcc_X,FreeAcc_Y,FreeAcc_Z
